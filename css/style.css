@@ -183,7 +183,7 @@ a {
 }
 .section1__block {
   text-align: center;
-  background-image: url(/image/main/background.png);
+  background-image: url(../image/main/background.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 182px;
